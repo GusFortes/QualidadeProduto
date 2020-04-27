@@ -15,6 +15,23 @@ public class App {
 	 * @param c
 	 * @return
 	 */
+
+	public static int verificaValores(double a, double b, double c){
+		int ladoA;
+		int ladoB;
+		int ladoC;
+
+		if(a != Math.floor(a) || b != Math.floor(b) || c != Math.floor(c)){
+			throw new RuntimeException("Os valores devem ser números inteiros. Verifique.");
+		}else{
+			ladoA = (int) a;
+			ladoB = (int) b;
+			ladoC = (int) c;
+			return identificaTriangulo(ladoA, ladoB, ladoC);
+		}
+
+	}
+
 	public static int identificaTriangulo(int a, int b, int c) {
 		if ((a == 0) && (b == 0) && (c == 0)) {
 			return tipos.INVALIDO.value();
@@ -38,6 +55,6 @@ public class App {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Triângulos!");
-		System.out.println(identificaTriangulo(2, 3, 4));
+		System.out.println(verificaValores(2, 3, 4));
 	}
 }

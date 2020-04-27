@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d0e320e-606e-4f38-b694-5bd5e8e8bf36" name="Default Changelist" comment="">
+    <list default="true" id="69c5e927-d2a1-4854-9e62-58e33deda81d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java" afterDir="false" />
     </list>
@@ -18,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="-831">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -36,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="76" column="52" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+            <state relative-caret-position="159">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -53,19 +54,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" />
         <option value="$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java" />
+        <option value="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="1372" />
@@ -81,31 +75,31 @@
         <subPane>
           <expand>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="t1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="congenial-guacamole" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QualidadeProduto" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="t1" type="462c0819:PsiDirectoryNode" />
@@ -118,11 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.testVarianteSete">
+  <component name="RunManager" selected="JUnit.AppTest">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -152,7 +142,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.testNaoTrian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.testLinhaLonga" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -162,13 +152,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="pucrs.si.qp.t1" />
       <option name="MAIN_CLASS_NAME" value="pucrs.si.qp.t1.AppTest" />
-      <option name="METHOD_NAME" value="testNaoTrian" />
+      <option name="METHOD_NAME" value="testLinhaLonga" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.testVariante3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.testValoresZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -178,13 +168,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="pucrs.si.qp.t1" />
       <option name="MAIN_CLASS_NAME" value="pucrs.si.qp.t1.AppTest" />
-      <option name="METHOD_NAME" value="testVariante3" />
+      <option name="METHOD_NAME" value="testValoresZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.testVarianteSete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest.testVaoresReais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -194,23 +184,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="pucrs.si.qp.t1" />
       <option name="MAIN_CLASS_NAME" value="pucrs.si.qp.t1.AppTest" />
-      <option name="METHOD_NAME" value="testVarianteSete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.testeValorZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pucrs.si.qp.t1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pucrs.si.qp.t1" />
-      <option name="MAIN_CLASS_NAME" value="pucrs.si.qp.t1.AppTest" />
-      <option name="METHOD_NAME" value="testeValorZero" />
+      <option name="METHOD_NAME" value="testVaoresReais" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,11 +192,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest.testVarianteSete" />
-        <item itemvalue="JUnit.AppTest.testNaoTrian" />
-        <item itemvalue="JUnit.AppTest.testeValorZero" />
-        <item itemvalue="JUnit.AppTest.testVariante3" />
         <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.testVaoresReais" />
+        <item itemvalue="JUnit.AppTest.testValoresZero" />
+        <item itemvalue="JUnit.AppTest.testLinhaLonga" />
       </list>
     </recent_temporary>
   </component>
@@ -231,48 +204,48 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d0e320e-606e-4f38-b694-5bd5e8e8bf36" name="Default Changelist" comment="" />
-      <created>1588022971267</created>
+      <changelist id="69c5e927-d2a1-4854-9e62-58e33deda81d" name="Default Changelist" comment="" />
+      <created>1588029556150</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588022971267</updated>
+      <updated>1588029556150</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_testEscaleno - 2020.04.27 at 19h 46m 25s.xml">
-      <configuration name="AppTest.testEscaleno" configurationId="JUnit" />
+    <history-entry file="AppTest_testValoresZero - 2020.04.27 at 20h 22m 33s.xml">
+      <configuration name="AppTest.testValoresZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testEquilatero - 2020.04.27 at 19h 47m 19s.xml">
-      <configuration name="AppTest.testEquilatero" configurationId="JUnit" />
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 37m 21s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testInvalido - 2020.04.27 at 19h 48m 16s.xml">
-      <configuration name="AppTest.testInvalido" configurationId="JUnit" />
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 37m 56s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testeParamNegativo - 2020.04.27 at 19h 51m 06s.xml">
-      <configuration name="AppTest.testeParamNegativo" configurationId="JUnit" />
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 38m 52s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testInvalido - 2020.04.27 at 19h 51m 16s.xml">
-      <configuration name="AppTest.testInvalido" configurationId="JUnit" />
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 39m 01s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest - 2020.04.27 at 19h 52m 36s.xml">
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 39m 21s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 39m 36s.xml">
+      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.04.27 at 20h 43m 45s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testVariante3 - 2020.04.27 at 19h 53m 55s.xml">
-      <configuration name="AppTest.testVariante3" configurationId="JUnit" />
+    <history-entry file="AppTest - 2020.04.27 at 20h 44m 58s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_testeValorZero - 2020.04.27 at 19h 55m 00s.xml">
-      <configuration name="AppTest.testeValorZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testNaoTrian - 2020.04.27 at 19h 57m 43s.xml">
-      <configuration name="AppTest.testNaoTrian" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testVarianteSete - 2020.04.27 at 19h 58m 41s.xml">
-      <configuration name="AppTest.testVarianteSete" configurationId="JUnit" />
+    <history-entry file="AppTest - 2020.04.27 at 20h 45m 55s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -280,16 +253,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24924012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -303,6 +276,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/tipos.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -313,15 +298,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="159">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="76" column="52" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        <state relative-caret-position="-831">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
