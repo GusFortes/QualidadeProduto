@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c5e927-d2a1-4854-9e62-58e33deda81d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java" afterDir="false" />
     </list>
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-831">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="393">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
@@ -37,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="125">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -213,15 +212,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_testValoresZero - 2020.04.27 at 20h 22m 33s.xml">
-      <configuration name="AppTest.testValoresZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 37m 21s.xml">
-      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 37m 56s.xml">
-      <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_testVaoresReais - 2020.04.27 at 20h 38m 52s.xml">
       <configuration name="AppTest.testVaoresReais" configurationId="JUnit" />
     </history-entry>
@@ -241,6 +231,15 @@
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AppTest - 2020.04.27 at 20h 45m 55s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.04.27 at 20h 46m 03s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.04.27 at 20h 46m 15s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.04.27 at 20h 47m 07s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -281,9 +280,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java</url>
-          <line>98</line>
+          <line>99</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -296,17 +295,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
+    <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="393">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t1/src/test/java/pucrs/si/qp/t1/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/t1/src/main/java/pucrs/si/qp/t1/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-831">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="125">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>

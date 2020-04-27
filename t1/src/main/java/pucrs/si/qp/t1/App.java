@@ -16,7 +16,7 @@ public class App {
 	 * @return
 	 */
 
-	public static int verificaValores(double a, double b, double c){
+	public static int verificaValoresInteiros(double a, double b, double c){
 		int ladoA;
 		int ladoB;
 		int ladoC;
@@ -55,6 +55,6 @@ public class App {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Triângulos!");
-		System.out.println(verificaValores(2, 3, 4));
+		System.out.println(verificaValoresInteiros(2, 3, 4));
 	}
 }
